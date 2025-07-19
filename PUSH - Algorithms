@@ -1,0 +1,7 @@
+Algorithim for Push Method:
+step 1: start
+step 2: check if heap memory is fully alloted or not. checking where pointer==size or not
+step 3: if heap is full, print an overflow statment.
+step 4: else, insert the element sent as a parameter in the structure
+step 5: increase the pointer by 1
+step 6: stop (return)
