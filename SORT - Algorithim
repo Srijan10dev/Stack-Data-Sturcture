@@ -1,0 +1,7 @@
+SORT Algorihtim
+step 1: start
+step 2: run ith loop, till last index, increment of +1
+step 3: run a jth loop, from 0th position to ith position, increment of +1
+step 4: check whether jth element is greater than ith element or not 
+step 5: if yes, undergo swapping two elements using temp thrid varible
+step 6: stop
