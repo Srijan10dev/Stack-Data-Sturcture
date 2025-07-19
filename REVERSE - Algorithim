@@ -1,0 +1,6 @@
+REVERSE Algorithim
+step 1: start
+step 2: declare a blank array
+step 3: now store the element in reverse, in the new array. use a counter k for storing in the new array
+step 4: now copy the element to the resultant array
+step 5: stop
