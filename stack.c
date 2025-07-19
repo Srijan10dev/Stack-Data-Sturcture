@@ -56,6 +56,11 @@ void main()
                 case 6:
                 reverse();
                 break;
+                case 0:
+                exit(0);
+                default:
+                printf("Invalid Choice. Try again\n");
+                break;
             }
         }
     }
