@@ -1,0 +1,7 @@
+Search Algorithims
+step 1: start
+step 2: run a loop till the last position.
+step 3: under the loop, check whether the given element is equal to the element in the loop
+step 4: if yes, print found and it's position. return the method
+step 5: else, print not found and return to the driver method
+step 6: stop
