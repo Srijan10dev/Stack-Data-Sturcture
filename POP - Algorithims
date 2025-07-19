@@ -1,0 +1,6 @@
+POP Algorithims
+step 1: Start
+step 2: check whether any element is present in the heap or not. if counter == 0 (as initalized with 0)
+step 3: if the stack is vacant, print underflown statement
+step 4: else, decrease the counter by one and print the element which is deleted
+step 5: stop
