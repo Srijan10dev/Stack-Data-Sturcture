@@ -1,0 +1,6 @@
+Display Algorithim
+step 1: start
+step 2: check whether the heap is vacent or not. if pointer == size
+step 3: if yes, print no element to be displayed
+step 4: else, run a loop from 0th index to the pointer index and display with loop element(i)
+step 5: stop 
